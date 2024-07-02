@@ -6,11 +6,6 @@
 
 This proposal suggests creating a 233,000-acre National Park stretching from the Ramapo Mountains to the New Jersey Pine Barrens, introducing a new model for conservation in America.
 
-[... rest of the content remains the same ...]
-## Overview
-
-This proposal suggests creating a 233,000-acre National Park stretching from the Ramapo Mountains to the New Jersey Pine Barrens, introducing a new model for conservation in America.
-
 ## The Landscape
 
 - **Ramapo Mountains (NY/NJ)**: 100,000 acres
